@@ -1,0 +1,22 @@
+.main {
+    background-color:#A9E2EA;
+    display: grid;
+    place-items: center;
+    height: 600px;
+    width: 600px;
+    resize: both;
+     overflow: auto;
+}
+.contentMain {
+    background-color: #F7C8AB;
+    font-size: 2em;
+    padding: 20px;
+    border-radius: 5px;
+  
+  
+}
+img {
+    height: 150px;
+    display: block;
+    margin: auto;
+}
